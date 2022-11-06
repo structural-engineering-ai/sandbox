@@ -2,7 +2,7 @@
 Preliminary trials and studies of artificial intelligent models to infer structural framing layouts from an architectural model.
 
 ### Framebot V0
-Reinforcement Learning on single frame
+Reinforcement Learning on single frame. Model never solved.
 
 ### Framebot V1
 A dense neural network
