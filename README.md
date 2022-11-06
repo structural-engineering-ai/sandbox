@@ -13,7 +13,7 @@ A dense neural network
 ### Framebot V3 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"  width="15" height="15"> :office:	
 Generative Adversarial Network (GAN) utilizing 3D CNN
 
-##### How to use:
+### How to use:
 1. Framebot Version 0:
    - Only the file is required. No data to generata or train required.
 2. Framebot Version 1-3:
