@@ -16,8 +16,7 @@ Generative Adversarial Network (GAN) utilizing 3D CNN
 ### Framebot V4
 We don't talk about this one....
 
-### Framebot V5 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /> :office:	
+### Framebot V5 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="15" height="15"> :office:	
 Graph Neural Network (GNN) for classifying simple truss types.
 
 ### How to use:
