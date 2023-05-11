@@ -13,10 +13,10 @@ A dense neural network
 ### Framebot V3 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"  width="15" height="15"> :office:	
 Generative Adversarial Network (GAN) utilizing 3D CNN
 
-### Framebot V4
+### Framebot V4 ☠️
 We don't talk about this one....
 
-### Framebot V5 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="15" height="15"> :office:	
+### Framebot V5 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="15" height="15"> :house:	
 Graph Neural Network (GNN) for classifying simple truss types.
 
 ### How to use:
