@@ -13,6 +13,12 @@ A dense neural network
 ### Framebot V3 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"  width="15" height="15"> :office:	
 Generative Adversarial Network (GAN) utilizing 3D CNN
 
+### Framebot V4
+We don't talk about this one....
+
+### Framebot V5 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" width="15" height="15"> :office:	
+Graph Neural Network (GNN) for classifying simple truss types.
+
 ### How to use:
 1. Framebot Version 0:
    - Only the file is required. No data to generata or train required.
